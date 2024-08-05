@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 100vh;
+    background-color: #282D35;
+}
+.nav-container{
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    color: white;
+    height: 90px;
+    padding: 30px 25px
+}
+.nav-text{
+    margin-right: auto;
+    font-weight: 700;
+    font-size: 22px;
+}
+.nav-description{
+    color: #DEEBF8;
+    font-weight: 600;
+}
+.nav-icon {
+    height: 30px;
+    margin-right: 7px;
+}
+
+main {
+    padding: 57px 27px;
+    color: white;
+    background-image: url(./images/reactjs-icon2.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: center;
+}
+
+.title {
+    margin: 0;
+}
+.main-list{
+    margin-top: 46px;
+    max-width: 400px;
+}
+.main-list > li{
+    line-height: 19px;
+    padding-block: 10px
+}
+.main-list > li::marker{
+    font-size: 1.4rem;
+    color: #61DAFB;
+}
