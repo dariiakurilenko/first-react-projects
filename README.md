@@ -30,3 +30,11 @@ User can open or close simple modal window
 link - https://dariak-modalwindow-react.netlify.app/
 
 
+5) Quiz app
+   
+   ![image](https://github.com/user-attachments/assets/b13c41c3-0ea2-4983-85ec-ffb6bdcaa22f)
+
+   link - https://dariak-quiz-react.netlify.app/
+
+
+
