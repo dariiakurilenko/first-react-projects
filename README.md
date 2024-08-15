@@ -8,3 +8,9 @@ link - https://daria-reacttestproject.netlify.app/
     ![image](https://github.com/user-attachments/assets/189b2bd4-f25d-486e-859d-d01347b986cd)
 Simple 1-page site, written with React, using components and props. My second learning React project.
 link - https://dariak-experiences-react.netlify.app/
+
+
+3) Counter
+   ![image](https://github.com/user-attachments/assets/1d061034-ac30-443d-9ae0-9fa872ed706b)
+Counter, that can add or distract.
+link - https://dariak-reactcounter.netlify.app/
