@@ -11,6 +11,7 @@ link - https://dariak-experiences-react.netlify.app/
 
 
 3) Counter
+
    ![image](https://github.com/user-attachments/assets/1d061034-ac30-443d-9ae0-9fa872ed706b)
 Counter, that can add or distract.
 link - https://dariak-reactcounter.netlify.app/
