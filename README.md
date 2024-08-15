@@ -7,4 +7,4 @@ link - https://daria-reacttestproject.netlify.app/
 2) Airbnb experiences clone
     ![image](https://github.com/user-attachments/assets/189b2bd4-f25d-486e-859d-d01347b986cd)
 Simple 1-page site, written with React, using components and props. My second learning React project.
-link - https://daria-copyof-airbnb-experiences.netlify.app/
+link - [https://daria-copyof-airbnb-experiences.netlify.app/](https://dariak-experiences-react.netlify.app/)
