@@ -13,5 +13,20 @@ link - https://dariak-experiences-react.netlify.app/
 3) Counter
 
    ![image](https://github.com/user-attachments/assets/1d061034-ac30-443d-9ae0-9fa872ed706b)
+
 Counter, that can add or distract.
+
 link - https://dariak-reactcounter.netlify.app/
+
+
+4) Modal window
+
+![image](https://github.com/user-attachments/assets/1179c515-7337-4ea9-9b4f-6f3380eb5bb4)
+
+![image](https://github.com/user-attachments/assets/c9125e00-453b-4193-90f8-7adbd7a1ede8)
+
+User can open or close simple modal window
+
+link - https://dariak-modalwindow-react.netlify.app/
+
+
