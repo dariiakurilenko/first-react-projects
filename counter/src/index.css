@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  background-color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+}
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+h1{
+  color: black;
+  font-size: 5rem;
+  margin: 0;
+  margin-bottom: 20px;
+}
+h2{
+  font-size: 2rem;
+  margin: 0;
+  color: gray;
+}
+button{
+  background: transparent;
+  border: 2px solid transparent;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  padding: 10px 25px;
+  margin: 0 10px;
+}
+.plus{
+  background-color: green;
+}
+.plus:active{
+  background-color: rgb(2, 92, 2);
+}
+.minus{
+  background-color: red;
+}
+.minus:active{
+  background-color: rgb(199, 4, 4);
+}
