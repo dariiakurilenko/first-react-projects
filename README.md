@@ -37,4 +37,11 @@ link - https://dariak-modalwindow-react.netlify.app/
    link - https://dariak-quiz-react.netlify.app/
 
 
+6) Crypto-app
 
+![image](https://github.com/user-attachments/assets/2c2a0993-12e0-49cb-bf2f-06cbd5762b53)
+
+
+App get crypto API, can filter the list
+
+![image](https://github.com/user-attachments/assets/857580d7-d327-41ea-b314-0e973ed62e37)
