@@ -45,3 +45,33 @@ link - https://dariak-modalwindow-react.netlify.app/
 App get crypto API, can filter the list
 
 ![image](https://github.com/user-attachments/assets/857580d7-d327-41ea-b314-0e973ed62e37)
+
+
+7) Photo-collection
+
+link - https://dariak-photo-collection.netlify.app/
+
+
+filter, search, get from backend, info about loading
+
+![image](https://github.com/user-attachments/assets/92e4ec59-2cde-4c62-9bb3-372e842d690e)
+
+
+8) Users list
+
+link - https://dariak-users-react.netlify.app/
+
+useEffect, fetch(backend), react-content-loader, search, add/delete users
+
+
+![image](https://github.com/user-attachments/assets/584f0b69-0951-40fc-aef0-2328e93bc36a)
+
+
+9) Currency exchange
+
+link - https://dariak-currency-exchange-react.netlify.app/
+
+![image](https://github.com/user-attachments/assets/683bb5dc-cc90-46c0-9b00-7084de54180d)
+
+useEffect, working with API, currency exchange
+
