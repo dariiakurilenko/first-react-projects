@@ -6,7 +6,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 </h1>
 1) React facts
-    ![image](https://github.com/user-attachments/assets/871a7d7c-a2cb-406e-b944-56cb7bf8c4bb)
 Simple 1-page site, written with React, using components. My first learning React project. 
 link - https://daria-reacttestproject.netlify.app/
 
